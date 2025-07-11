@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId = "constructiondimension"
+version = "1.0.1"
+displayName = "Construction Dimension"
+description = "Adds a flat construction dimension,you can use 'ctrl+p' in GUI to enter it"
+
+[[dependencies.constructiondimension]]
+modId = "neoforge"
+versionRange = "[21,)"
+mandatory = true

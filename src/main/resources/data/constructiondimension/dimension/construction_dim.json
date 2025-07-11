@@ -1,0 +1,20 @@
+{
+  "type": "constructiondimension:construction_dim_type",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        {
+          "block": "minecraft:barrier",
+          "height": 1
+        }
+      ],
+      "biome": "constructiondimension:construction_biome",
+      "features": false,
+      "lakes": false,
+      "structures": {}
+    }
+  },
+  "effects": "minecraft:overworld",
+  "fog_color": 13434853
+}

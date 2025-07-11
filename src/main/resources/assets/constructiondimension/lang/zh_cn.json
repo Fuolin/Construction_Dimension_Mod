@@ -1,0 +1,6 @@
+{
+  "key.category.constructiondimension": "建造维度",
+  "key.constructiondimension.teleport": "传送到建造维度",
+  "message.constructiondimension.teleporting": "正在传送至建造维度...",
+  "message.constructiondimension.cooldown": "传送冷却中！请等待 %s 秒"
+}
