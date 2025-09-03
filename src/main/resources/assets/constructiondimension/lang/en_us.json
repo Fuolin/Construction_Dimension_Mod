@@ -1,6 +1,5 @@
 {
-  "key.category.constructiondimension": "Construction Dimension",
-  "key.constructiondimension.teleport": "Teleport to Construction Dimension",
-  "message.constructiondimension.teleporting": "Teleporting to construction dimension...",
-  "message.constructiondimension.cooldown": "Teleport on cooldown! Please wait %s seconds"
+  "key.category.constructiondimension": "Teleport to Construction Dimension",
+  "key.constructiondimension.teleport": "Teleport to Construction Dimension/Return to the original dimension",
+  "message.constructiondimension.teleporting": "welcome"
 }
